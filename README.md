@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantjagtap2909" alt="prashantjagtap2909" /></a> </p>
 
-- 🌱 I’m currently learning **DSA with c++ and full stack development**
+- 🌱 I’m currently learning **DSA with c++ and full stack web development**
 
 - 💬 Ask me about **DSA**
 
