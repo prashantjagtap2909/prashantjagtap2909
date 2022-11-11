@@ -1,6 +1,6 @@
 Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Prashant Jagtap
 ================================================================================================================================
-<h3 align="center">A third year CSE student</h3>
+<h3 align="center">A Third year CSE student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantjagtap2909&label=Profile%20views&color=0e75b6&style=flat" alt="prashantjagtap2909" /> </p>
 
