@@ -40,4 +40,4 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjagtap2909&" alt="prashantjagtap2909" /></p>
 
 ### Dev Quote
-#![](https:://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https:://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
