@@ -19,10 +19,10 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
- 🌱 I’m currently learning **DSA with c++ and full stack web development**
+ - 🌱 I’m currently learning **DSA with c++ and full stack web development**
 
- 💬 Ask me about **DSA**
- 💻 Solved 500+ questions on coding platforms
+ - 💬 Ask me about **DSA**
+ - 💻 Solved 500+ questions on coding platforms.
 
 
 <br><br>
