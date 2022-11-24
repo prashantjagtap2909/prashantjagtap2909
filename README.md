@@ -13,15 +13,16 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantjagtap2909" alt="prashantjagtap2909" /></a> </p>
 
 
-- 	
+	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-- 🌱 I’m currently learning **DSA with c++ and full stack web development**
+ 🌱 I’m currently learning **DSA with c++ and full stack web development**
 
-- 💬 Ask me about **DSA**
+ 💬 Ask me about **DSA**
+ 💻 Solved 500+ questions on coding platforms
 
 
 <br><br>
