@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/prashantjagtap2909"><img src="https://readme-typing-svg.herokuapp.com/?lines=front-end%20web%20developer;Self-taught%20Coder;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=480&height=75"></a>
 </p>
- 
+ ![Developer Image](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Prashant Jagtap
 ================================================================================================================================
