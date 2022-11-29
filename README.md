@@ -22,7 +22,9 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
  - 🌱 I’m currently learning **DSA with c++ and full stack web development**
 
  - 💬 Ask me about **DSA**
- - 💻 Solved 500+ questions on coding platforms.
+ - 💻 Solved 500+ questions on coding platforms
+ - 5 ⭐ on HackerRank
+ - 3 ⭐ on CodeChef
 
 
 <br><br>
@@ -62,7 +64,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 <br/>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjagtap2909&" alt="prashantjagtap2909" /></p>
+<p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prashantjagtap2909)](https://git.io/streak-stats)</p>
 
 
 
