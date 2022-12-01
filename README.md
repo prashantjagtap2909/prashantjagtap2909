@@ -79,4 +79,4 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
- <img height="120" alt="Thanks for visiting me. Please follow !" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br />
+ <img height="120" alt="Thanks for visiting my profile. Please follow !" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br />
