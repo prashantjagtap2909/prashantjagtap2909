@@ -40,7 +40,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <a href="https://www.codechef.com/users/prashant096" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prashant096" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prashantjagtap01" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="prashantjagtap01" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/prashantjagtap6532" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="prashantjagtap6532" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prashantjagtap6532" target="blank"><img align="center" src"https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="prashantjagtap6532" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prashantjagtap6532" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="prashantjagtap6532" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prashantjagtap6532" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="prashantjagtap6532" height="30" width="40" /></a>
 </p>
 
