@@ -24,7 +24,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
  - 💬 Ask me about **DSA**
  - 💻 Solved **700+** questions on coding platforms
  - 5 ⭐ on HackerRank
- - 3 ⭐ on CodeChef (1654 max)
+ - 3 ⭐ on CodeChef (1678 max)
 
 
 
