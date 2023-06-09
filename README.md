@@ -32,15 +32,15 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h3 align="left">Connect with me:</h3>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 
-<p align="left">
+<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/prashantjagtap2909'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
-<a href="https://twitter.com/prash_j96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prash_j96" height="30" width="40" /></a>
+<a href = 'https://www.twitter.com/https://twitter.com/Prash_j96?s=09'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 
-<a href="https://linkedin.com/in/prashantjagtap2909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashantjagtap2909" height="30" width="40" /></a>
+<a href = 'https://www.github.com/https://github.com/prashantjagtap2909'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
-<a href="https://www.leetcode.com/prash_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prash_j" height="30" width="40" /></a>
+
 
 </p>
 
