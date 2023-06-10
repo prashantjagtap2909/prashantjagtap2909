@@ -32,7 +32,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+
 
 ## Connect with me.......
 [![Linkedin Badge](https://img.shields.io/badge/-prashantjagtap2909-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashantjagtap2909/)](https://www.linkedin.com/in/prashantjagtap2909/)
