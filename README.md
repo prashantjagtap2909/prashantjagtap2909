@@ -34,9 +34,6 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 
 
-## Connect with me.......
-[![Linkedin Badge](https://img.shields.io/badge/-prashantjagtap2909-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashantjagtap2909/)](https://www.linkedin.com/in/prashantjagtap2909/)
-[![Twitter Badge](https://img.shields.io/badge/-Prash_j96-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Prash_j96/)](https://www.twitter.com/Prash_j96/) 
 
 
 </p>
