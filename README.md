@@ -22,8 +22,8 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
  - 🌱 I’m currently learning **DSA with c++ and full stack web development**
  - 💬 Ask me about **DSA**
- - 💻 Solved **800+** questions on coding platforms
- - 5 ⭐ on HackerRank
+ - 💻 Solved **900+** questions on coding platforms
+ - 5 ⭐ on HackerRank 
  - 3 ⭐ on CodeChef (1678 max)
 
 
