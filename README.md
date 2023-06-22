@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/prashantjagtap2909"><img src="https://readme-typing-svg.herokuapp.com/?lines=front-end%20web%20developer;Self-taught%20Coder;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=480&height=75"></a>
+  <a href="https://github.com/prashantjagtap2909"><img src="https://readme-typing-svg.herokuapp.com/?lines=front-end%20web%20developer;Self-taught%20Coder;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things......&center=true&width=480&height=75"></a>
 </p>
 
 
