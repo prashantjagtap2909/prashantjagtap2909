@@ -22,7 +22,7 @@ Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
  - 🌱 I’m currently learning **DSA with c++ and full stack web development**
  - 💬 Ask me about **DSA**
- - 💻 Solved **900+** questions on coding platforms
+ - 💻 Solved **950+** questions on coding platforms
  - 5 ⭐ on HackerRank in  C++
  - 3 ⭐ on HackerRank in python
  - 3 ⭐ on CodeChef (1678 max)
