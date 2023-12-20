@@ -26,7 +26,7 @@ Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
  - 5 ⭐ on HackerRank in  C++
  - 3 ⭐ on HackerRank in python
  - 3 ⭐ on CodeChef (1682 max)
- - 2 ⭐ on Leetcode 
+ - 2 ⭐ on Leetcode ( 1536) 
 
 
 
