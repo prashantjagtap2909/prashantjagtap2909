@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/prashantjagtap2909"><img src="https://readme-typing-svg.herokuapp.com/?lines=front-end%20web%20developer;Self-taught%20Coder;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things......&center=true&width=480&height=75"></a>
+  <a href="https://github.com/prashantjagtap2909"><img src="https://readme-typing-svg.herokuapp.com/?lines=front-end%20web%20developer;Self-taught%20Coder;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things......&center=true&width=480&height=75"></a>
 </p>
 
 
 
 Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Prashant Jagtap
 ================================================================================================================================
-<h3 align="center">A Fourth year CSE student</h3>
+<h3 align="center">A Final year CSE student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantjagtap2909&label=Profile%20views&color=0e75b6&style=flat" alt="prashantjagtap2909" /> </p>
 
