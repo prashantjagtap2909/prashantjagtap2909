@@ -102,7 +102,6 @@ Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 <br/>  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prashantjagtap2909)](https://git.io/streak-stats)
  
 
 
