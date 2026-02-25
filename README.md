@@ -29,17 +29,18 @@ Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
  - 3 ⭐ on CodeChef (1682 max)
  - 2 ⭐ on Leetcode ( 1536) 
 
+<br>
+
 - 🌱 I’m currently building **[AspirantMitraa.com](https://www.aspirantmitraa.com) and [SeoTheta.com](https://seotheta.com)**
  - 💬 We Can build **Anything** visit [Celestial Minds](https://www.celestialminds.quillcircuit.com)
  - 💻 My platform has been reached to **100000+** user
- - Specialist on Codeforces
  - Builded [Quillcircuit.com](https://www.quillcircuit.com]
  - Builded [Freedeveloertools.com](https://www.freedevelopertools.com]
  - Builded [DevToolsDirectory](https://directory.freedevelopertools.com]
  - Builded [triparcar.com](https://www.triparcar.com]
 
 
-<br>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
