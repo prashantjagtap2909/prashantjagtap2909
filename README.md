@@ -6,7 +6,7 @@
 
 Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Prashant Jagtap
 ================================================================================================================================
-<h3 align="center">A Final year CSE student</h3>
+<h3 align="center">Developer building new things everyday</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantjagtap2909&label=Profile%20views&color=0e75b6&style=flat" alt="prashantjagtap2909" /> </p>
 
@@ -29,6 +29,14 @@ Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
  - 3 ⭐ on CodeChef (1682 max)
  - 2 ⭐ on Leetcode ( 1536) 
 
+- 🌱 I’m currently building **[AspirantMitraa.com](https://www.aspirantmitraa.com) and [SeoTheta.com](https://seotheta.com)**
+ - 💬 We Can build **Anything** visit [Celestial Minds](https://www.celestialminds.quillcircuit.com)
+ - 💻 My platform has been reached to **100000+** user
+ - Specialist on Codeforces
+ - Builded [Quillcircuit.com](https://www.quillcircuit.com]
+ - Builded [Freedeveloertools.com](https://www.freedevelopertools.com]
+ - Builded [DevToolsDirectory](https://directory.freedevelopertools.com]
+ - Builded [triparcar.com](https://www.triparcar.com]
 
 
 <br>
