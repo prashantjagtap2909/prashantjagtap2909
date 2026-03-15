@@ -34,10 +34,10 @@ Hii, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 - 🌱 I’m currently building **[AspirantMitraa.com](https://www.aspirantmitraa.com) and [SeoTheta.com](https://seotheta.com)**
  - 💬 We Can build **Anything** visit [Celestial Minds](https://www.celestialminds.quillcircuit.com)
  - 💻 My platform has been reached to **100000+** user
- - Builded [Quillcircuit.com](https://www.quillcircuit.com]
- - Builded [Freedeveloertools.com](https://www.freedevelopertools.com]
- - Builded [DevToolsDirectory](https://directory.freedevelopertools.com]
- - Builded [triparcar.com](https://www.triparcar.com]
+ - Builded [Quillcircuit.com](https://www.quillcircuit.com)
+ - Builded [Freedeveloertools.com](https://www.freedevelopertools.com)
+ - Builded [DevToolsDirectory](https://directory.freedevelopertools.com)
+ - Builded [triparcar.com](https://www.triparcar.com)
 
 
 
